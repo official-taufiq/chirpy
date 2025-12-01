@@ -145,3 +145,8 @@ curl -X POST http://localhost:8080/api/chirps   -H "Content-Type: application/js
 - Code formatted with `go fmt`.  
 
 ---
+
+## Motivation
+## quickstart
+## usage
+## contributing
