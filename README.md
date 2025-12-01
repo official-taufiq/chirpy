@@ -147,6 +147,6 @@ curl -X POST http://localhost:8080/api/chirps   -H "Content-Type: application/js
 ---
 
 ## Motivation
-## quick start
-## usage
-## contributing
+## Quick Start
+## Usage
+## Contributing
